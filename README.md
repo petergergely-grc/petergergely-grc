@@ -26,6 +26,7 @@ programs by bridging the gap between technology, risk, and business objectives.
 ## 🚨 Threat Hunting & Security Operations
 
 - [Threat Hunting Scenario — Tor Browser Usage (MDE + KQL)](https://github.com/petergergely-grc/threat-hunting-scenario-tor)
+- [Live Threat Hunting Portfolio — Microsoft Sentinel / Defender XDR](https://github.com/petergergely-grc/threat-hunting-portfolio) 
 
 ---
 
